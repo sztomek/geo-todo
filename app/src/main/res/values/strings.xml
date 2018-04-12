@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeoTodo</string>
+    <string name="label_todos">ToDos</string>
+    <string name="label_places">Places</string>
+    <string name="label_categories">Categories</string>
+    <string name="label_settings">Settings</string>
+</resources>
